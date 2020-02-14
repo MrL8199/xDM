@@ -1,3 +1,7 @@
+# Hướng dẫn sử dụng:
+> https://github.com/xxxxue/xDM/tree/dev/DLL bạn vào tải bản 3.1 vì bản kia cần key. extrac ra có file help.htm , sử dụng 7zip để extract ra những file html. open = google chrome để nó dịch , cú pháp đầy đủ , ngon bổ rẻ , mình thích cái findstr, multicolor của nó lắm
+> Ví dụ 1 button mình cắt hình ảnh ra thì tìm sẽ lâu hơn multicolor là nó tìm ví dụ góc trái button là điểm đầu tiên từ điểm đó nó tìm các vùng lân cận button , 1 button hay hình ảnh thì sẽ có các color khác nhau nên ta tìm multi corlor nhanh hơn image nhiều
+
 # xDM
 
 > c# 使用大漠插件. 完成 类似 按键精灵的 功能. 方法 注释 正在慢慢的 完善中
